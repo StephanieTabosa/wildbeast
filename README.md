@@ -9,5 +9,5 @@
 
 
 <h4 align="center"> 
-	  1/5 pages
+	  1/1 pages
 </h4>
